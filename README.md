@@ -23,7 +23,7 @@ The project comprises the following main components:
 
 To utilize this project:
 
-1. **Load the Project**: Ensure you have SWI-Prolog installed. Load the project files into your Prolog environment:
+1. **Load the Project**: Ensure you have SWI-Prolog installed and rename dados.txt to dados.pl. Load the project files into your Prolog environment:
 
    ```prolog
    ?- ["project.pl"].
